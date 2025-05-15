@@ -1,0 +1,3 @@
+#ifndef IO_NATIVE_LINUX_INL
+#define IO_NATIVE_LINUX_INL
+#endif
